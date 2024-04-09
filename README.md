@@ -18,5 +18,4 @@ Get started with a huge collection of over 120+ website sections powered by Tail
 - 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
 - 🔗 [Tailwind CSS](https://tailwindcss.com/)
 ## Screenshot
-<a href="img/1.png" rel="some text">![Tailwind CSS Landing Page Demo:](img/1.png)</a>
-<a href="img/2.png" rel="some text">![Tailwind CSS Landing Page Demo:](img/2.png)</a>
+<a href="[http://google.com.au/](https://themesberg.github.io/tailwind-landing-page/)" rel="some text">![Tailwind CSS Landing Page Demo - Flowbite](https://flowbite.s3.amazonaws.com/github/screenshot.png)</a>
